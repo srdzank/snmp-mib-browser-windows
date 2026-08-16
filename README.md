@@ -16,7 +16,7 @@ A fast, lightweight, and modern **SNMP MIB Browser & OID Scanner** built nativel
 
 Watch a quick demo of SNMP Browser in action:
 
-[![SNMP Browser Video Demo](https://img.youtube.com/vi/No2jubzWMcs/maxresdefault.jpg)](https://youtu.be/No2jubzWMcs)
+[![SNMP Browser Video Demo](https://img.youtube.com/vi/No2jubzWMcs/hqdefault.jpg)](https://youtu.be/No2jubzWMcs)
 
 👉 **[Watch on YouTube](https://youtu.be/No2jubzWMcs)**
 
