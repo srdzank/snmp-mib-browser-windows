@@ -6,12 +6,28 @@ A fast, lightweight, and modern **SNMP MIB Browser & OID Scanner** built nativel
 
 ---
 
+## 📸 Application Screenshot
+
+![SNMP Browser Interface](snmp222.png)
+
+---
+
+## 🎬 Video Demo & Walkthrough
+
+Watch a quick demo of SNMP Browser in action:
+
+[![SNMP Browser Video Demo](https://img.youtube.com/vi/No2jubzWMcs/maxresdefault.jpg)](https://youtu.be/No2jubzWMcs)
+
+👉 **[Watch on YouTube](https://youtu.be/No2jubzWMcs)**
+
+---
+
 ## ⚡ Key Features
 
 * **🚀 Ultra-Fast Native Performance:** Built with native C++ and Qt 6 for maximum speed, instant launching, and minimal CPU/memory footprint—no heavy Electron or Java runtime required.
 * **🔒 100% Offline & Private:** Zero telemetry, zero tracking, and no cloud dependencies. Your network diagnostics data stays entirely on your local machine.
 * **🌳 Full MIB Tree Navigation:** Effortlessly load, parse, and browse complex MIB files with an intuitive hierarchy tree.
-* **🔍 Complete SNMP Operations:** Full support for SNMP Walk, Get, GetNext, and Set operations across custom OID paths.
+* **🔍 Complete SNMP Operations:** Full support for SNMP Walk, Get, GetNext, and Set operations across custom OID paths (SNMP v1, v2c, and v3 supported).
 * **🎨 Windows Native UI:** Clean design with full support for both Dark and Light themes.
 
 ---
@@ -41,7 +57,7 @@ This repository serves as the official issue tracker and community hub for SNMP 
 
 ## 🛡️ Security & Integrity
 
-SNMP Browser is packaged using Microsoft Store's official MSIX container system. It operates with strict sandboxing and zero background background data collection, ensuring full compliance with strict corporate network security policies.
+SNMP Browser is packaged using Microsoft Store's official MSIX container system. It operates with strict sandboxing and zero background data collection, ensuring full compliance with strict corporate network security policies.
 
 ---
 
