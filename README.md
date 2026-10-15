@@ -8,7 +8,7 @@ A fast, lightweight, and modern SNMP MIB Browser & OID Scanner built natively fo
 
 ## 📸 Application Screenshot
 
-![SNMP Browser Interface](snmp222.png)
+![SNMP Browser Interface](aaaa1.png)
 
 ---
 
