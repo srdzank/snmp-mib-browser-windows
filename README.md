@@ -20,7 +20,7 @@ Watch the presentation and demo of SNMP Browser in action:
   👉 **[Watch Intro on YouTube (at 12s)](https://www.youtube.com/watch?v=d5HTdIDzBAk&t=12s)**
 
 - **Demo & Walkthrough:** [![SNMP Browser Video Demo](https://img.youtube.com/vi/No2jubzWMcs/hqdefault.jpg)](https://youtu.be/No2jubzWMcs)  
-  👉 **[Watch Demo on YouTube](https://youtu.be/No2jubzWMcs)**
+  👉 **[Watch Demo on YouTube](https://youtu.be/d5HTdIDzBAk)**
 
 ---
 
